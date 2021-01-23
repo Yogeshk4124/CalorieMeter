@@ -12,7 +12,7 @@ class Result extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("BMI CALCULATOR"),
+        title: Text("Calorie Meter"),
         centerTitle: true,
         backgroundColor:  Color(0xFF202020),
       ),
