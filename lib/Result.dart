@@ -154,24 +154,6 @@ class Result extends StatelessWidget {
               ),
             ),
           ),
-          // SizedBox(
-          //   width: double.infinity,
-          //   child: RawMaterialButton(
-          //     child: Text(
-          //       'RECALCULATE',
-          //       style: TextStyle(
-          //           fontSize: 27,
-          //           fontFamily: 'Roboto',
-          //           fontWeight: FontWeight.bold,
-          //           color: Colors.white),
-          //     ),
-          //     fillColor: Color(0xffBB86FC),
-          //     onPressed: () {
-          //       Navigator.pop(context);
-          //     },
-          //     padding: EdgeInsets.all(5),
-          //   ),
-          // ),
           ButtonTheme(
             minWidth: double.infinity,
             padding: EdgeInsets.symmetric(vertical: 7),
