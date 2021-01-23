@@ -6,3 +6,6 @@ Calorie Meter is an android app that helps user to measure their daily BMI(Body 
 
 <img src="Screenshots/splash.png" width="300"><img src="Screenshots/Main.png" width="300">
 <img src="Screenshots/second.png" width="300"><img src="Screenshots/third.png" width="300">
+
+## APK
+https://github.com/Yogeshk4124/CalorieMeter/blob/main/apk/caloriemeter.apk
