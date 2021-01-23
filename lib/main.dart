@@ -22,24 +22,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-// class MyApp extends StatelessWidget {
-//   // This widget is the root of your application.
-//   @override
-//   Widget build(BuildContext context) {
-//     return MaterialApp(
-//       title: 'Flutter Demo',
-//       theme: ThemeData.dark().copyWith(
-//         primaryColor: Color(0xffBB86FC),
-//         scaffoldBackgroundColor: Color(0xFF181818),
-//       ),
-// //      home: InputPage(title: 'Flutter Demo Home Page'),
-//     initialRoute: '/',
-//       routes: {
-//         '/':(context)=>InputPage(),
-//         // 'AimPage':(context)=>AimPage(),
-//         // 'Result':(context)=>Result(String a,String b,double s),
-//       },
-//     );
-//   }
-// }
