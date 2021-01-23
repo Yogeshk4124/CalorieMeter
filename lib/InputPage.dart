@@ -259,63 +259,6 @@ class _InputPageState extends State<InputPage> {
               ],
             ),
           ),
-          // Expanded(
-          //   child:Column(
-          //     mainAxisAlignment: MainAxisAlignment.center,
-          //     children: <Widget>[
-          //       Text(
-          //         "Exercise Scale",
-          //       ),
-          //
-          //     ],
-          //
-          //   ),
-          //
-          // ),
-          // GestureDetector(
-          //   onTap: () {
-          //     // Calculate c = new Calculate(height: height, weight: weight);
-          //     // c.calculateBMI();
-          //     // Navigator.push(
-          //     //   context,
-          //     //   MaterialPageRoute(
-          //     //     builder: (context) =>
-          //     //         Result(status: c.getResult(),
-          //     //             msg: c.getInterpretation(),
-          //     //             statusNumber: c.calculateBMI()),
-          //     //   ),
-          //     // );
-          //     // Navigator.pushNamed(context, 'AimPage')
-          //     Navigator.push(
-          //           context,
-          //           MaterialPageRoute(
-          //             builder: (context) =>
-          //                 AimPage(height:height ,
-          //                     weight: weight,
-          //                     gender: gender,
-          //                     age:age,
-          //                 ),
-          //           ),
-          //         );
-          //   },
-          //   child: Container(
-          //     color: Color(0xffBB86FC),
-          //     // color: Color(0xffC38FFF),
-          //     child: Center(
-          //       child: Text(
-          //         'Next',
-          //         style: TextStyle(
-          //             fontSize: 27,
-          //             fontFamily: 'Roboto',
-          //             fontWeight: FontWeight.bold,
-          //             color: Colors.white),
-          //       ),
-          //     ),
-          //     margin: EdgeInsets.only(top: 10),
-          //     width: double.infinity,
-          //     // height: 60,
-          //   ),
-          // ),
           ButtonTheme(
             minWidth: double.infinity,
             padding: EdgeInsets.symmetric(vertical: 7),
